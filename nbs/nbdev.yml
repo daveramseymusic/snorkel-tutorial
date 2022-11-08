@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "snorkel-tutorial"
+  site-url: "https://daveramseymusic.github.io/snorkel-tutorial"
+  description: "tutorial using snorkel"
+  repo-branch: main
+  repo-url: "https://github.com/daveramseymusic/snorkel-tutorial"
